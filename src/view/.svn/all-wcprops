@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view
+END
+ReinitializeWindow.form
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/ReinitializeWindow.form
+END
+InitialWindow.form
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/InitialWindow.form
+END
+YouWinWindow.form
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/YouWinWindow.form
+END
+DrawWindow.form
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/DrawWindow.form
+END
+YouLoseWindow.form
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/YouLoseWindow.form
+END
+MainJFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/MainJFrame.java
+END
+PromotionJFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/PromotionJFrame.java
+END
+CastlingJFrame.form
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/CastlingJFrame.form
+END
+ChessCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/68/trunk/Xadrezonator/src/view/ChessCellEditor.java
+END
+ReinitializeWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/ReinitializeWindow.java
+END
+InitialWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/InitialWindow.java
+END
+YouWinWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/YouWinWindow.java
+END
+DrawWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/DrawWindow.java
+END
+YouLoseWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/YouLoseWindow.java
+END
+CastlingJFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/CastlingJFrame.java
+END
+MainJFrame.form
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/MainJFrame.form
+END
+ChessRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133/trunk/Xadrezonator/src/view/ChessRenderer.java
+END
+PromotionJFrame.form
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/PromotionJFrame.form
+END
+InterfaceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/201/trunk/Xadrezonator/src/view/InterfaceConstants.java
+END

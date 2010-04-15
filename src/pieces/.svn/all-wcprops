@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/192/trunk/Xadrezonator/src/pieces
+END
+Horse.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/192/trunk/Xadrezonator/src/pieces/Horse.java
+END
+Bishop.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/Xadrezonator/src/pieces/Bishop.java
+END
+PiecesConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/189/trunk/Xadrezonator/src/pieces/PiecesConstants.java
+END
+Pawn.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/192/trunk/Xadrezonator/src/pieces/Pawn.java
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/189/trunk/Xadrezonator/src/pieces/Piece.java
+END
+King.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/192/trunk/Xadrezonator/src/pieces/King.java
+END
+Rook.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/192/trunk/Xadrezonator/src/pieces/Rook.java
+END
+Queen.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/192/trunk/Xadrezonator/src/pieces/Queen.java
+END

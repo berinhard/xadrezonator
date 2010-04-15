@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/112/trunk/Xadrezonator/src/Exceptions
+END
+DoesntBelongToPlayerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/78/trunk/Xadrezonator/src/Exceptions/DoesntBelongToPlayerException.java
+END
+EmptyPositionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/78/trunk/Xadrezonator/src/Exceptions/EmptyPositionException.java
+END
+NoSuchPositionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/78/trunk/Xadrezonator/src/Exceptions/NoSuchPositionException.java
+END
+InvalidMoveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/78/trunk/Xadrezonator/src/Exceptions/InvalidMoveException.java
+END
+InvalidMoveIsInCheckException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/112/trunk/Xadrezonator/src/Exceptions/InvalidMoveIsInCheckException.java
+END
